@@ -1,0 +1,4 @@
+= obazl_ctypes
+
+Bazel rules for the https://github.com/yallop/ocaml-ctypes[ocaml-ctypes] library.
+
